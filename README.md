@@ -1,0 +1,1 @@
+# Afet-ve-Kriz-Y-netimi-Projesi-
