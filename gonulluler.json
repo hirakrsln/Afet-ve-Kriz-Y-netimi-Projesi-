@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "GNL-001",
+    "ad_soyad": "Ahmet Yılmaz",
+    "temel_ve_yasal_kriterler": {
+      "yas": 28,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "A Rh-"
+    },
+    "mesleki_uzmanlik": "Veteriner",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Yangın Söndürme Eğitimi",
+      "İlk Yardım Sertifikası (İleri)",
+      "Lojistik ve Depo Yönetimi Eğitimi"
+    ],
+    "hazirlik_skoru": 65,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Osmangazi",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 2.9,
+      "musaitlik_durumu": "7/24 Müsait"
+    }
+  },
+  {
+    "id": "GNL-002",
+    "ad_soyad": "Mehmet Demir",
+    "temel_ve_yasal_kriterler": {
+      "yas": 34,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "A Rh+"
+    },
+    "mesleki_uzmanlik": "Fizyoterapist",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Su Kurtarma Eğitimi",
+      "Yangın Söndürme Eğitimi"
+    ],
+    "hazirlik_skoru": 52,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Mudanya",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "B, C, E",
+      "merkeze_uzaklik_km": 31.9,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-003",
+    "ad_soyad": "Ayşe Kaya",
+    "temel_ve_yasal_kriterler": {
+      "yas": 38,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "AB Rh+"
+    },
+    "mesleki_uzmanlik": "Makine Mühendisi",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İlk Yardım Sertifikası (Temel)",
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası",
+      "Enkaz Altında Yaşam Eğitimi",
+      "Triaj Eğitimi"
+    ],
+    "hazirlik_skoru": 83,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Yıldırım",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 24.8,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-004",
+    "ad_soyad": "Fatma Şahin",
+    "temel_ve_yasal_kriterler": {
+      "yas": 26,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "Hemşire",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası",
+      "Kentsel Arama Kurtarma Seviye 2",
+      "Amatör Telsizcilik Belgesi (Haberleşme)",
+      "Yangın Söndürme Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "Temel Afet Bilinci Eğitimi"
+    ],
+    "hazirlik_skoru": 98,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Karacabey",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, D",
+      "merkeze_uzaklik_km": 13.6,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-005",
+    "ad_soyad": "Ali Çelik",
+    "temel_ve_yasal_kriterler": {
+      "yas": 31,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "B Rh+"
+    },
+    "mesleki_uzmanlik": "Öğretmen",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Lojistik ve Depo Yönetimi Eğitimi",
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "Triaj Eğitimi",
+      "İlk Yardım Sertifikası (Temel)"
+    ],
+    "hazirlik_skoru": 82,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "İnegöl",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, C, E",
+      "merkeze_uzaklik_km": 13.2,
+      "musaitlik_durumu": "Hafta İçi Mesai Sonrası"
+    }
+  },
+  {
+    "id": "GNL-006",
+    "ad_soyad": "Emine Yıldız",
+    "temel_ve_yasal_kriterler": {
+      "yas": 41,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "AB Rh-"
+    },
+    "mesleki_uzmanlik": "Elektrik Teknisyeni",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Triaj Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 2"
+    ],
+    "hazirlik_skoru": 68,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Osmangazi",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "B, C",
+      "merkeze_uzaklik_km": 23.2,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-007",
+    "ad_soyad": "Mustafa Aydın",
+    "temel_ve_yasal_kriterler": {
+      "yas": 30,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "0 Rh-"
+    },
+    "mesleki_uzmanlik": "Doktor (Acil Tıp)",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Su Kurtarma Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Lojistik ve Depo Yönetimi Eğitimi",
+      "Amatör Telsizcilik Belgesi (Haberleşme)",
+      "Enkaz Altında Yaşam Eğitimi",
+      "Sahra Hastanesi Kurulum Eğitimi"
+    ],
+    "hazirlik_skoru": 94,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Gemlik",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "B, C",
+      "merkeze_uzaklik_km": 39.0,
+      "musaitlik_durumu": "Hafta İçi Mesai Sonrası"
+    }
+  },
+  {
+    "id": "GNL-008",
+    "ad_soyad": "Zeynep Öztürk",
+    "temel_ve_yasal_kriterler": {
+      "yas": 31,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "AB Rh+"
+    },
+    "mesleki_uzmanlik": "Fizyoterapist",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Enkaz Altında Yaşam Eğitimi",
+      "Amatör Telsizcilik Belgesi (Haberleşme)",
+      "Psikososyal Destek Eğitimi",
+      "Su Kurtarma Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1"
+    ],
+    "hazirlik_skoru": 87,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Gürsu",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 16.3,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-009",
+    "ad_soyad": "Hüseyin Arslan",
+    "temel_ve_yasal_kriterler": {
+      "yas": 48,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "Paramedik",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Su Kurtarma Eğitimi",
+      "Triaj Eğitimi",
+      "İlk Yardım Sertifikası (İleri)",
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası"
+    ],
+    "hazirlik_skoru": 73,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Yıldırım",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 34.7,
+      "musaitlik_durumu": "7/24 Müsait"
+    }
+  },
+  {
+    "id": "GNL-010",
+    "ad_soyad": "Hatice Doğan",
+    "temel_ve_yasal_kriterler": {
+      "yas": 41,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "A Rh-"
+    },
+    "mesleki_uzmanlik": "Doktor (Acil Tıp)",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası",
+      "Triaj Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Yangın Söndürme Eğitimi"
+    ],
+    "hazirlik_skoru": 83,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Kestel",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, C",
+      "merkeze_uzaklik_km": 37.0,
+      "musaitlik_durumu": "Hafta İçi Mesai Sonrası"
+    }
+  },
+  {
+    "id": "GNL-011",
+    "ad_soyad": "İbrahim Kılıç",
+    "temel_ve_yasal_kriterler": {
+      "yas": 29,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Düşük",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "Muhasebeci",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Su Kurtarma Eğitimi",
+      "Amatör Telsizcilik Belgesi (Haberleşme)"
+    ],
+    "hazirlik_skoru": 56,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Kestel",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 18.9,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-012",
+    "ad_soyad": "Elif Aslan",
+    "temel_ve_yasal_kriterler": {
+      "yas": 49,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "Veteriner",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Yangın Söndürme Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "Kentsel Arama Kurtarma Seviye 2"
+    ],
+    "hazirlik_skoru": 62,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Karacabey",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, C, E",
+      "merkeze_uzaklik_km": 1.8,
+      "musaitlik_durumu": "7/24 Müsait"
+    }
+  },
+  {
+    "id": "GNL-013",
+    "ad_soyad": "Hasan Çetin",
+    "temel_ve_yasal_kriterler": {
+      "yas": 35,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Düşük",
+      "kan_grubu": "0 Rh-"
+    },
+    "mesleki_uzmanlik": "Şoför (Ağır Vasıta)",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İlk Yardım Sertifikası (Temel)",
+      "Su Kurtarma Eğitimi",
+      "Yangın Söndürme Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1"
+    ],
+    "hazirlik_skoru": 68,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Nilüfer",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "B, C",
+      "merkeze_uzaklik_km": 36.6,
+      "musaitlik_durumu": "Hafta İçi Mesai Sonrası"
+    }
+  },
+  {
+    "id": "GNL-014",
+    "ad_soyad": "Sultan Kara",
+    "temel_ve_yasal_kriterler": {
+      "yas": 27,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Hipertansiyon (Kontrollü)",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "AB Rh-"
+    },
+    "mesleki_uzmanlik": "Hemşire",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Enkaz Altında Yaşam Eğitimi",
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası",
+      "Psikososyal Destek Eğitimi",
+      "Temel Afet Bilinci Eğitimi"
+    ],
+    "hazirlik_skoru": 71,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Nilüfer",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B",
+      "merkeze_uzaklik_km": 9.8,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-015",
+    "ad_soyad": "Osman Koç",
+    "temel_ve_yasal_kriterler": {
+      "yas": 29,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "A Rh+"
+    },
+    "mesleki_uzmanlik": "Doktor (Acil Tıp)",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Yangın Söndürme Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "Psikososyal Destek Eğitimi",
+      "Su Kurtarma Eğitimi",
+      "Triaj Eğitimi"
+    ],
+    "hazirlik_skoru": 88,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Gürsu",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 8.7,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-016",
+    "ad_soyad": "Meryem Kurt",
+    "temel_ve_yasal_kriterler": {
+      "yas": 51,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Düşük",
+      "kan_grubu": "0 Rh-"
+    },
+    "mesleki_uzmanlik": "Sosyal Hizmet Uzmanı",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İlk Yardım Sertifikası (İleri)",
+      "Enkaz Altında Yaşam Eğitimi"
+    ],
+    "hazirlik_skoru": 49,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Mudanya",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, E",
+      "merkeze_uzaklik_km": 31.8,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-017",
+    "ad_soyad": "Yusuf Şimşek",
+    "temel_ve_yasal_kriterler": {
+      "yas": 30,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Astım (Kontrollü)",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "A Rh+"
+    },
+    "mesleki_uzmanlik": "Makine Mühendisi",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Amatör Telsizcilik Belgesi (Haberleşme)",
+      "Lojistik ve Depo Yönetimi Eğitimi"
+    ],
+    "hazirlik_skoru": 67,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Mudanya",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 22.2,
+      "musaitlik_durumu": "Hafta İçi Mesai Sonrası"
+    }
+  },
+  {
+    "id": "GNL-018",
+    "ad_soyad": "Kübra Özdemir",
+    "temel_ve_yasal_kriterler": {
+      "yas": 24,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "Veteriner",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İlk Yardım Sertifikası (Temel)",
+      "Amatör Telsizcilik Belgesi (Haberleşme)",
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası"
+    ],
+    "hazirlik_skoru": 76,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Karacabey",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, E",
+      "merkeze_uzaklik_km": 3.2,
+      "musaitlik_durumu": "7/24 Müsait"
+    }
+  },
+  {
+    "id": "GNL-019",
+    "ad_soyad": "Ramazan Türk",
+    "temel_ve_yasal_kriterler": {
+      "yas": 47,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Hipertansiyon (Kontrollü)",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "B Rh+"
+    },
+    "mesleki_uzmanlik": "Serbest Meslek",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Yangın Söndürme Eğitimi",
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 2"
+    ],
+    "hazirlik_skoru": 78,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Orhangazi",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, D",
+      "merkeze_uzaklik_km": 14.5,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-020",
+    "ad_soyad": "Büşra Yalçın",
+    "temel_ve_yasal_kriterler": {
+      "yas": 25,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "Dağcılık Eğitmeni",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İlk Yardım Sertifikası (Temel)",
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası",
+      "Su Kurtarma Eğitimi",
+      "Yangın Söndürme Eğitimi",
+      "Lojistik ve Depo Yönetimi Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1"
+    ],
+    "hazirlik_skoru": 90,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Osmangazi",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, D",
+      "merkeze_uzaklik_km": 8.4,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-021",
+    "ad_soyad": "Murat Tekin",
+    "temel_ve_yasal_kriterler": {
+      "yas": 54,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "B Rh+"
+    },
+    "mesleki_uzmanlik": "Psikolog",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "İlk Yardım Sertifikası (İleri)",
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası",
+      "Lojistik ve Depo Yönetimi Eğitimi"
+    ],
+    "hazirlik_skoru": 90,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Osmangazi",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 27.8,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-022",
+    "ad_soyad": "Esra Aksoy",
+    "temel_ve_yasal_kriterler": {
+      "yas": 34,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "A Rh+"
+    },
+    "mesleki_uzmanlik": "İnşaat Ustası (Kalıpçı)",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası",
+      "Temel Afet Bilinci Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "Sahra Hastanesi Kurulum Eğitimi"
+    ],
+    "hazirlik_skoru": 70,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Gemlik",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 29.2,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-023",
+    "ad_soyad": "Kemal Bulut",
+    "temel_ve_yasal_kriterler": {
+      "yas": 31,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "B Rh+"
+    },
+    "mesleki_uzmanlik": "Jeoloji Mühendisi",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Su Kurtarma Eğitimi",
+      "Temel Afet Bilinci Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "Lojistik ve Depo Yönetimi Eğitimi",
+      "İlk Yardım Sertifikası (İleri)"
+    ],
+    "hazirlik_skoru": 79,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Kestel",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, D",
+      "merkeze_uzaklik_km": 3.3,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-024",
+    "ad_soyad": "Merve Çakır",
+    "temel_ve_yasal_kriterler": {
+      "yas": 23,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "İtfaiyeci (Emekli)",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "Kentsel Arama Kurtarma Seviye 2"
+    ],
+    "hazirlik_skoru": 69,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "İnegöl",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 39.8,
+      "musaitlik_durumu": "7/24 Müsait"
+    }
+  },
+  {
+    "id": "GNL-025",
+    "ad_soyad": "Selim Ateş",
+    "temel_ve_yasal_kriterler": {
+      "yas": 32,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "0 Rh+"
+    },
+    "mesleki_uzmanlik": "Makine Mühendisi",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Triaj Eğitimi",
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "Lojistik ve Depo Yönetimi Eğitimi",
+      "Yangın Söndürme Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1"
+    ],
+    "hazirlik_skoru": 84,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "İnegöl",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 11.2,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-026",
+    "ad_soyad": "Gizem Polat",
+    "temel_ve_yasal_kriterler": {
+      "yas": 43,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Astım (Kontrollü)",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "AB Rh+"
+    },
+    "mesleki_uzmanlik": "Doktor (Acil Tıp)",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Yangın Söndürme Eğitimi",
+      "Temel Afet Bilinci Eğitimi",
+      "Sahra Hastanesi Kurulum Eğitimi"
+    ],
+    "hazirlik_skoru": 63,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Gemlik",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, E",
+      "merkeze_uzaklik_km": 16.8,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-027",
+    "ad_soyad": "Serkan Ergün",
+    "temel_ve_yasal_kriterler": {
+      "yas": 55,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Hipertansiyon (Kontrollü)",
+      "fiziksel_dayaniklilik": "Düşük",
+      "kan_grubu": "AB Rh-"
+    },
+    "mesleki_uzmanlik": "Diyetisyen",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Kentsel Arama Kurtarma Seviye 1",
+      "İlk Yardım Sertifikası (İleri)"
+    ],
+    "hazirlik_skoru": 48,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "İnegöl",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "B, C, E",
+      "merkeze_uzaklik_km": 20.5,
+      "musaitlik_durumu": "7/24 Müsait"
+    }
+  },
+  {
+    "id": "GNL-028",
+    "ad_soyad": "Derya Uçar",
+    "temel_ve_yasal_kriterler": {
+      "yas": 45,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "Dağcılık Eğitmeni",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Lojistik ve Depo Yönetimi Eğitimi",
+      "Enkaz Altında Yaşam Eğitimi"
+    ],
+    "hazirlik_skoru": 64,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Orhangazi",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, C, E",
+      "merkeze_uzaklik_km": 4.5,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-029",
+    "ad_soyad": "Onur Keskin",
+    "temel_ve_yasal_kriterler": {
+      "yas": 41,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "B Rh+"
+    },
+    "mesleki_uzmanlik": "Elektrik Teknisyeni",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Su Kurtarma Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "Enkaz Altında Yaşam Eğitimi"
+    ],
+    "hazirlik_skoru": 74,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Nilüfer",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "B, D",
+      "merkeze_uzaklik_km": 30.4,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-030",
+    "ad_soyad": "Nurcan Ekinci",
+    "temel_ve_yasal_kriterler": {
+      "yas": 32,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "AB Rh-"
+    },
+    "mesleki_uzmanlik": "Öğretmen",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Su Kurtarma Eğitimi",
+      "Temel Afet Bilinci Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Lojistik ve Depo Yönetimi Eğitimi",
+      "Yangın Söndürme Eğitimi"
+    ],
+    "hazirlik_skoru": 84,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Orhangazi",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 20.7,
+      "musaitlik_durumu": "Hafta İçi Mesai Sonrası"
+    }
+  },
+  {
+    "id": "GNL-031",
+    "ad_soyad": "Cem Bozkurt",
+    "temel_ve_yasal_kriterler": {
+      "yas": 53,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "B Rh-"
+    },
+    "mesleki_uzmanlik": "Elektrik Teknisyeni",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "Kentsel Arama Kurtarma Seviye 1"
+    ],
+    "hazirlik_skoru": 61,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Kestel",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "B, C",
+      "merkeze_uzaklik_km": 2.6,
+      "musaitlik_durumu": "Hafta İçi Mesai Sonrası"
+    }
+  },
+  {
+    "id": "GNL-032",
+    "ad_soyad": "Ebru Sarı",
+    "temel_ve_yasal_kriterler": {
+      "yas": 51,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Hipertansiyon (Kontrollü)",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "0 Rh-"
+    },
+    "mesleki_uzmanlik": "Dalgıç",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Psikososyal Destek Eğitimi",
+      "Enkaz Altında Yaşam Eğitimi"
+    ],
+    "hazirlik_skoru": 53,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Orhangazi",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 7.9,
+      "musaitlik_durumu": "7/24 Müsait"
+    }
+  },
+  {
+    "id": "GNL-033",
+    "ad_soyad": "Burak Güneş",
+    "temel_ve_yasal_kriterler": {
+      "yas": 27,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "AB Rh-"
+    },
+    "mesleki_uzmanlik": "Fizyoterapist",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Psikososyal Destek Eğitimi",
+      "Temel Afet Bilinci Eğitimi",
+      "Su Kurtarma Eğitimi",
+      "Yangın Söndürme Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası"
+    ],
+    "hazirlik_skoru": 98,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Gürsu",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, E",
+      "merkeze_uzaklik_km": 28.2,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-034",
+    "ad_soyad": "Aylin Işık",
+    "temel_ve_yasal_kriterler": {
+      "yas": 56,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Düşük",
+      "kan_grubu": "0 Rh-"
+    },
+    "mesleki_uzmanlik": "Doktor (Acil Tıp)",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Psikososyal Destek Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Yangın Söndürme Eğitimi",
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "Triaj Eğitimi"
+    ],
+    "hazirlik_skoru": 74,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Kestel",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 11.7,
+      "musaitlik_durumu": "Hafta Sonu"
+    }
+  },
+  {
+    "id": "GNL-035",
+    "ad_soyad": "Volkan Er",
+    "temel_ve_yasal_kriterler": {
+      "yas": 41,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "A Rh-"
+    },
+    "mesleki_uzmanlik": "Jeoloji Mühendisi",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Yangın Söndürme Eğitimi",
+      "Enkaz Altında Yaşam Eğitimi",
+      "Lojistik ve Depo Yönetimi Eğitimi"
+    ],
+    "hazirlik_skoru": 73,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Karacabey",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "Yok",
+      "merkeze_uzaklik_km": 15.9,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-036",
+    "ad_soyad": "Sevgi Acar",
+    "temel_ve_yasal_kriterler": {
+      "yas": 47,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "0 Rh+"
+    },
+    "mesleki_uzmanlik": "Jeoloji Mühendisi",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Enkaz Altında Yaşam Eğitimi",
+      "Triaj Eğitimi",
+      "Amatör Telsizcilik Belgesi (Haberleşme)",
+      "Temel Afet Bilinci Eğitimi",
+      "Lojistik ve Depo Yönetimi Eğitimi"
+    ],
+    "hazirlik_skoru": 93,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Osmangazi",
+      "kendi_araci_var_mi": false,
+      "ehliyet_sinifi": "B, D",
+      "merkeze_uzaklik_km": 34.0,
+      "musaitlik_durumu": "Hafta İçi Mesai Sonrası"
+    }
+  },
+  {
+    "id": "GNL-037",
+    "ad_soyad": "Tolga Kaplan",
+    "temel_ve_yasal_kriterler": {
+      "yas": 52,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "A Rh+"
+    },
+    "mesleki_uzmanlik": "Dalgıç",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Temel Afet Bilinci Eğitimi",
+      "Enkaz Altında Yaşam Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 2",
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "Triaj Eğitimi"
+    ],
+    "hazirlik_skoru": 94,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Mudanya",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, E",
+      "merkeze_uzaklik_km": 26.1,
+      "musaitlik_durumu": "7/24 Müsait"
+    }
+  },
+  {
+    "id": "GNL-038",
+    "ad_soyad": "Pınar Uzun",
+    "temel_ve_yasal_kriterler": {
+      "yas": 26,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Astım (Kontrollü)",
+      "fiziksel_dayaniklilik": "Yüksek",
+      "kan_grubu": "AB Rh-"
+    },
+    "mesleki_uzmanlik": "Fizyoterapist",
+    "alinan_egitimler_ve_sertifikalar": [
+      "İlk Yardım Sertifikası (İleri)",
+      "Temel Afet Bilinci Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Enkaz Altında Yaşam Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 2"
+    ],
+    "hazirlik_skoru": 91,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Gürsu",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, E",
+      "merkeze_uzaklik_km": 13.6,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-039",
+    "ad_soyad": "Emre Coşkun",
+    "temel_ve_yasal_kriterler": {
+      "yas": 37,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Orta",
+      "kan_grubu": "A Rh+"
+    },
+    "mesleki_uzmanlik": "Haberleşme Teknisyeni",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Temel Afet Bilinci Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 2",
+      "Yangın Söndürme Eğitimi",
+      "Sahra Hastanesi Kurulum Eğitimi",
+      "İlk Yardım Sertifikası (Temel)",
+      "İnsansız Hava Aracı (İHA) Kullanım Sertifikası"
+    ],
+    "hazirlik_skoru": 88,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Nilüfer",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, C",
+      "merkeze_uzaklik_km": 11.9,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  },
+  {
+    "id": "GNL-040",
+    "ad_soyad": "Gül Aktaş",
+    "temel_ve_yasal_kriterler": {
+      "yas": 28,
+      "yas_uygunlugu": "Uygun (18-60 yaş aralığında)",
+      "adli_sicil_kaydi": "Temiz Kayıt (Beyan Esaslı)"
+    },
+    "saglik_ve_fiziksel_yeterlilik": {
+      "kronik_hastalik_beyani": "Yok",
+      "fiziksel_dayaniklilik": "Düşük",
+      "kan_grubu": "A Rh-"
+    },
+    "mesleki_uzmanlik": "Veteriner",
+    "alinan_egitimler_ve_sertifikalar": [
+      "Lojistik ve Depo Yönetimi Eğitimi",
+      "Kentsel Arama Kurtarma Seviye 1",
+      "Kentsel Arama Kurtarma Seviye 2",
+      "İlk Yardım Sertifikası (İleri)",
+      "Amatör Telsizcilik Belgesi (Haberleşme)"
+    ],
+    "hazirlik_skoru": 70,
+    "lojistik_ve_erisilebilirlik": {
+      "sehir": "Bursa",
+      "ilce": "Orhangazi",
+      "kendi_araci_var_mi": true,
+      "ehliyet_sinifi": "B, C",
+      "merkeze_uzaklik_km": 41.9,
+      "musaitlik_durumu": "Sadece Acil Durum Çağrısında"
+    }
+  }
+]
